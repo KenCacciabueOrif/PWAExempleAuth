@@ -15,7 +15,7 @@ Exemple de PWA avec Auth.js
 Dans la console:
 git clone https://github.com/KenCacciabueOrif/PWAExempleAuth.git   
 
-## Step 2 Create Next app
+## Step 2 - Create Next app
 
 ### 2.1
 Dans la console:
@@ -23,3 +23,5 @@ npx create-next-app@latest
 
 ### 2.2
 Enlever les contenus inutiles
+
+## Step 3 - Importer sur Vercel
